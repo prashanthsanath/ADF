@@ -1,0 +1,9 @@
+{
+	"name": "cicddemo-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3b86c40-d237-4acd-bb17-f6f5edd0c196",
+		"tenantId": "4e8d09f7-cc79-4ccb-9149-a4238dd17422"
+	}
+}
