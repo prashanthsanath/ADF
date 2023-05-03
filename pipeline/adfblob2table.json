@@ -29,7 +29,6 @@
 					},
 					"sink": {
 						"type": "AzureSqlSink",
-						"preCopyScript": " delete from cars",
 						"writeBehavior": "insert",
 						"sqlWriterUseTableLock": false,
 						"disableMetricsCollection": false
